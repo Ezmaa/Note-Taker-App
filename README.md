@@ -1,8 +1,6 @@
 # Note Taker App (Express.js)
----
 
 ## Your Task
----
 
 Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
@@ -10,7 +8,6 @@ The application’s front end has already been created. It's your job to build t
 
 
 ## User Story
----
 
 ```
 AS A small business owner
@@ -20,7 +17,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 ## Acceptance Criteria
----
 
 ```
 GIVEN a note-taking application
@@ -46,20 +42,16 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Installations 
----
 Clone the repository and run npm i to install the packages for the neccessary packages:
 > npm i 
 
 ## Usage 
----
 After the neccessary packeage are installed, open the terminal and run the follwoing command:
 > node server.js
 
 ## Note taker App
----
 <img width="1423" alt="Screenshot 2022-12-28 at 3 37 07 PM" src="https://user-images.githubusercontent.com/112808494/209869287-c5b70460-0425-458d-a2df-53ed639ef114.png">
 <img width="1439" alt="Screenshot 2022-12-28 at 3 30 57 PM" src="https://user-images.githubusercontent.com/112808494/209869325-dc0b96cf-b8e7-4d05-ae37-79648fcebca7.png">
 
 ## License 
----
 Licensed under the MIT license.
